@@ -1,0 +1,5 @@
+build/
+dist/
+installer/dist_installer/
+__pycache__/
+work_tracker/db/work_tracker.db
